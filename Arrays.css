@@ -1,0 +1,19 @@
+body {
+    background: #ccc;
+}
+
+h1,
+p {
+    color: #121212;
+}
+
+button {
+    background: rgb(red, green, blue);
+    color: #012301;
+    width: 3rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
